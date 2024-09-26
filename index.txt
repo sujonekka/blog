@@ -4,3 +4,4 @@ I am learning how to push and clone Remote Repo
 Now I have edited in Remote Repo and how to pull it to the local
 How to create new branch and and edit it and again push it to the main branch
 
+Now I am learning how to create branch loacally and merge to main . it implements locally ok.
