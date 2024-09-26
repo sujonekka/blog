@@ -2,4 +2,5 @@ This is first to learn about github.
 this is loacla area commmitn
 I am learning how to push and clone Remote Repo
 Now I have edited in Remote Repo and how to pull it to the local
+How to create new branch and and edit it and again push it to the main branch
 
